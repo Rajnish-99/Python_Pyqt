@@ -7,7 +7,7 @@ Despite being written entirely in python, the library is very fast due to its
 heavy leverage of numpy for number crunching, Qt's GraphicsView framework for
 2D display, and OpenGL for 3D display.
 """
-
+## just added a comment over here and waiting for the things to come up
 setupOpts = dict(
     name='pyqtgraph',
     description='Scientific Graphics and GUI Library for Python',
